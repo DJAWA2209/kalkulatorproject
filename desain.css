@@ -3,11 +3,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to right, #00c6ff, #0072ff);
+    background: linear-gradient(to right, #006400, #FF7F50);
     font-family: Arial, sans-serif;
 }
-.cool-heading {
-    font-family: 'Roboto', sans-serif;
+
     
     
 .container {
@@ -52,5 +51,5 @@ button {
 }
 
 button:hover {
-    background-color: #b58200c0;
+    background-color: #white;
 }
